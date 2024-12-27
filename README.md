@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # Ivo Neiman - Personal Portfolio
 
 Welcome to my personal portfolio! This is a showcase of my work as a **Web Designer** and **Java Developer**. In this project, you'll find my skills, professional experience, and personal projects that demonstrate my expertise in web design and software development.
@@ -95,5 +85,3 @@ You can reach me at:
 
 If you are looking for someone who is skilled in what they do, reliable, organized, and has fluent communication then look no further. Just shoot me a message to discuss further details.
 
-
->>>>>>> 24dd6be3a32a92084d1fdafaaf6fe7550f8d4c48
